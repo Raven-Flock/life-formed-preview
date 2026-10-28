@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "schema": {
+    "source_repo": "GitHub owner/repo the file was copied from, e.g. dust2ash7/raven-flock-assets",
+    "source_commit": "full 40-char commit sha of source_repo the file was copied at",
+    "path": "path of the file inside source_repo",
+    "dest": "path under public/ in this repo; served at /<dest> (e.g. models/keeper.glb)",
+    "sha256": "hex sha256 of the copied file",
+    "bytes": "file size in bytes"
+  },
+  "entries": [
+    {
+      "source_repo": "dust2ash7/raven-flock-assets",
+      "source_commit": "bdb11f71d3b704579909d376a806ae36c2b6addd",
+      "path": "meshes/life-formed/rocks/rocks.glb",
+      "dest": "models/life-formed/rocks.glb",
+      "sha256": "0d96ee4d1ff08c037c4299d8123893baf36837efbf21804f817e36998bede0bb",
+      "bytes": 33304
+    },
+    {
+      "source_repo": "dust2ash7/raven-flock-assets",
+      "source_commit": "9d62e6ed5d4474cd62cf7c2bbcc5296089ac34d5",
+      "path": "meshes/life-formed/bridge/bridge.glb",
+      "dest": "models/life-formed/bridge.glb",
+      "sha256": "c0ffc8cbff0db0122797d2a3c00488d959f386edfa4a01e2d0c9446fb212d42d",
+      "bytes": 28508
+    },
+    {
+      "source_repo": "dust2ash7/raven-flock-assets",
+      "source_commit": "bdb11f71d3b704579909d376a806ae36c2b6addd",
+      "path": "meshes/life-formed/vegetation/vegetation.glb",
+      "dest": "models/life-formed/vegetation.glb",
+      "sha256": "9e2e9ca0cfccf0f8875191e912110672dfd020544ffd9cd55456d5ac444a5f6f",
+      "bytes": 14684
+    },
+    {
+      "source_repo": "dust2ash7/raven-flock-assets",
+      "source_commit": "9205c1019172d124b2a8a41f138a86d0cf68d4b4",
+      "path": "textures/life-formed/props-atlas/ktx2/props-basecolor.ktx2",
+      "dest": "textures/life-formed/props-atlas/props-basecolor.ktx2",
+      "sha256": "d84be7bcac506ecb36733d827fd9799e36479657c02a58ff4853c24aadd52d85",
+      "bytes": 168944
+    },
+    {
+      "source_repo": "dust2ash7/raven-flock-assets",
+      "source_commit": "9205c1019172d124b2a8a41f138a86d0cf68d4b4",
+      "path": "textures/life-formed/props-atlas/ktx2/props-normal.ktx2",
+      "dest": "textures/life-formed/props-atlas/props-normal.ktx2",
+      "sha256": "0fe73566e2808fa9859fe142e701144ddf73613e47eff4fb79c9ad890c6ef67c",
+      "bytes": 306989
+    },
+    {
+      "source_repo": "dust2ash7/raven-flock-assets",
+      "source_commit": "9205c1019172d124b2a8a41f138a86d0cf68d4b4",
+      "path": "textures/life-formed/props-atlas/ktx2/props-orm.ktx2",
+      "dest": "textures/life-formed/props-atlas/props-orm.ktx2",
+      "sha256": "e38001de4bc681e81e1fcf2a90e033cbbd80cbed1359f6fbb91f55608243bb26",
+      "bytes": 111019
+    },
+    {
+      "source_repo": "Raven-Flock/raven-flock-assets",
+      "source_commit": "3f2c535d75aa660151f0544dceae18f5f01a0519",
+      "path": "textures/life-formed/terrain-detail/ktx2/terrain-basecolor.ktx2",
+      "dest": "textures/terrain/terrain-basecolor.ktx2",
+      "sha256": "415fcefd388b9cea22f0d630c4d4e4f40b787b64d1623baf86b388f526ab93ac",
+      "bytes": 175874
+    },
+    {
+      "source_repo": "Raven-Flock/raven-flock-assets",
+      "source_commit": "c157c03b083e4e4cef1adc13b74813d454d20454",
+      "path": "textures/life-formed/terrain-detail/ktx2/terrain-normal.ktx2",
+      "dest": "textures/terrain/terrain-normal.ktx2",
+      "sha256": "80022e08d45b4d2d7c9d3eef597961f897f60c4a844098d777fd65e756052e08",
+      "bytes": 763459
+    },
+    {
+      "source_repo": "dust2ash7/raven-flock-assets",
+      "source_commit": "9205c1019172d124b2a8a41f138a86d0cf68d4b4",
+      "path": "textures/life-formed/terrain-detail/ktx2/terrain-orm.ktx2",
+      "dest": "textures/terrain/terrain-orm.ktx2",
+      "sha256": "6693e410522437ea4755a1b944915cfcb34c6a8ebef4ed72f7d88b98f0aadcfa",
+      "bytes": 193212
+    }
+  ]
+}
