@@ -59,11 +59,11 @@
     },
     {
       "source_repo": "Raven-Flock/raven-flock-assets",
-      "source_commit": "3f2c535d75aa660151f0544dceae18f5f01a0519",
+      "source_commit": "eded0d8fe943bf6b607a7002ce450d96b1b6011a",
       "path": "textures/life-formed/terrain-detail/ktx2/terrain-basecolor.ktx2",
       "dest": "textures/terrain/terrain-basecolor.ktx2",
-      "sha256": "415fcefd388b9cea22f0d630c4d4e4f40b787b64d1623baf86b388f526ab93ac",
-      "bytes": 175874
+      "sha256": "7c3287f07b8bfb1671841f99574b7263be2fce93e8e754f1211688c7812dad8b",
+      "bytes": 175912
     },
     {
       "source_repo": "Raven-Flock/raven-flock-assets",
