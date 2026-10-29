@@ -1,3 +1,3 @@
 # life-formed PREVIEW
 
-PREVIEW build of PR #29 tip 7839a3f — not live play.
+PREVIEW of PR #28 tip 503a179 (A2.1 thighs-only walk). Not live play.
