@@ -1,3 +1,5 @@
-# life-formed PREVIEW
+# Life Formed (preview)
 
-PREVIEW of PR #28 tip 503a179 (A2.1 thighs-only walk). Not live play.
+Preview build only — not play. Consider the ravens.
+
+Built from life-formed tip `51c56b6` (PR #31 keeper-male r1c).
